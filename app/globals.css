@@ -1,0 +1,20 @@
+table{
+    border: 1px solid black;
+    margin: 4rem;
+}
+
+td, th{
+    border: 1px solid black;
+    padding: .4rem;
+}
+
+.changeColor{
+    background-color: green;
+    color: white;
+}
+
+.tableHeading{
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+}
